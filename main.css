@@ -65,7 +65,7 @@ nav li a:hover{
 }
 
 .products{
-  background-image: url("curve.png");
+  background-image: url("https://andrescampuzano.github.io/curso-html-css/images/curve.png");
   max-height: 50px;
   background-size: cover;
   background-position: center top;
